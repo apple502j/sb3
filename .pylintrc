@@ -1,0 +1,2 @@
+[MESSAGES CONTROL]
+disable=no-member,invalid-name,unused-variable,useless-object-inheritance,redefined-builtin,too-many-arguments,missing-docstring,too-few-public-methods,too-many-instance-attributes
